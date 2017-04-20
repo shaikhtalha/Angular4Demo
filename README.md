@@ -1,5 +1,9 @@
 # Angular4Demo
 
+To Run this project first you need to install Angular CLI(Command Line Interface).
+
+To install latest angular cli use this command "-g @angular/cli@latest"
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 ## Development server
